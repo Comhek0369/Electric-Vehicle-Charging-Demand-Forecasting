@@ -2,7 +2,7 @@
 
 This repository contains a Power BI dashboard project designed to forecast and visualize **Electric Vehicle (EV) charging demand** using data-driven insights. The dashboard is equipped with interactive slicers and visualizations to support informed decisions in urban planning, energy infrastructure, and sustainability efforts.
 
-![EV Dashboard PDF](./EV%20charging%20stations.pdf)
+Dashboard Template :-<a href= "https://github.com/Comhek0369/Electric-Vehicle-Charging-Demand-Forecasting/blob/main/EV%20charging%20stations.pbix">Power BI Template </a>
 
 ---
 
@@ -79,10 +79,10 @@ Includes:
 ---
 
 ## 📷 Preview
-![Dashboard Screenshort](./242ef8fb30450047bb5a5901c41117a9895f2e3c.png)
+-<a href= "https://github.com/Comhek0369/Electric-Vehicle-Charging-Demand-Forecasting/commit/242ef8fb30450047bb5a5901c41117a9895f2e3c">Screenshort</a>
 ### Final Dashboard Overview
 
-![Dashboard](./EV%20charging%20stations.pbix)
+Dashboard in PDF:-<a href= "https://github.com/Comhek0369/Electric-Vehicle-Charging-Demand-Forecasting/blob/main/EV%20charging%20stations.pdf"> PDF</a>
 
 ---
 
