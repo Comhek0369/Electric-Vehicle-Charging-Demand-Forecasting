@@ -103,17 +103,7 @@ Dashboard in PDF:-<a href= "https://github.com/Comhek0369/Electric-Vehicle-Charg
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please fork the repo, create a new branch, and submit a pull request for any improvements, bug fixes, or feature additions.
-
----
-
 ## 📬 Contact
 
 Feel free to open an issue for feedback or questions.
-
----
-
-*Made with 💡 using Power BI to power smarter mobility.*
 
